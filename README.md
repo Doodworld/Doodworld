@@ -1,11 +1,11 @@
-#Doodworld
+# Doodworld
 
-##Descripción general
+## Descripción general
 
 Doodworld es un metaverso y espacio virtual que ofrece a sus usuarios una amplia gama de oportunidades comerciales y emprendimientos. Cada puerta dentro de Doodworld representa un negocio o proyecto donde las personas pueden comprar o vender productos y servicios. La plataforma está diseñada para brindar seguridad y protección a sus usuarios, y ofrece tres tipos de perfiles diferentes: Fantasma, Robot y Extraterrestre.
 
 
-##Perfiles de usuario
+## Perfiles de usuario
 
 Doodworld ofrece tres perfiles de usuario con distintos niveles de protección y seguridad:
 
@@ -16,31 +16,31 @@ Doodworld ofrece tres perfiles de usuario con distintos niveles de protección y
 Cada perfil de usuario tiene derechos y limitaciones específicos, lo que garantiza un entorno seguro y protegido para todos los participantes de Doodworld.
 
 
-##Desarrollo de puertas
+## Desarrollo de puertas
 
 En la primera fase de desarrollo de Doodworld, los creadores podrán diseñar y desarrollar sus propias puertas de entrada utilizando tecnologías web como HTML, CSS y JavaScript. Cada puerta representa un negocio o proyecto único y ofrece una experiencia personalizada para los usuarios que la visitan.
 
 Los desarrolladores tienen la libertad de diseñar y personalizar sus puertas según sus necesidades y preferencias. Pueden incorporar elementos interactivos, información detallada sobre productos o servicios, y características específicas de su negocio. Esta fase inicial permite a los desarrolladores establecer su presencia en Doodworld y atraer a potenciales clientes o socios.
 
-##Tecnología avanzada
+## Tecnología avanzada
 
 A medida que Doodworld evoluciona, la visión es crear una tecnología que permita a los usuarios habitar el metaverso de forma más inmersiva. La meta es llegar a un punto en el que los usuarios puedan cambiar de puerta y apariencia dentro del metaverso sin necesidad de utilizar una página web externa.
 
 Este enfoque avanzado busca mejorar la experiencia del usuario y hacer que Doodworld sea más interactivo y dinámico. Los avances tecnológicos estarán orientados a brindar a los usuarios una mayor inmersión en el metaverso y permitirles explorar y conectarse con otros usuarios y proyectos de manera más eficiente.
 
-##Criptomonedas y comercio
+## Criptomonedas y comercio
 
 Doodworld facilitará el comercio dentro del metaverso utilizando la criptomoneda Bitcoin y otras criptomonedas estables. Los usuarios podrán realizar transacciones utilizando estas monedas digitales para comprar productos o servicios ofrecidos por otros usuarios o empresas dentro de Doodworld.
 
 Además, cada puerta o proyecto dentro de Doodworld tendrá el derecho de crear su propia criptomoneda utilizando el concepto de acciones criptográficas. Esto permitirá a los negocios buscar apoyo financiero o socios de manera similar a la bolsa de valores. Esto fomentará la colaboración y la inversión dentro de Doodworld, brindando oportunidades adicionales de crecimiento y desarrollo para los emprendimientos y proyectos presentes en la plataforma.
 
-##Participación en Doodworld
+## Participación en Doodworld
 
 Doodworld es un espacio inclusivo y abierto para todos. Tanto desarrolladores como usuarios pueden participar en este metaverso y contribuir al crecimiento de la comunidad. Los desarrolladores pueden crear y personalizar sus puertas, mientras que los usuarios pueden explorar, comprar y conectar con diferentes proyectos y negocios.
 
 La colaboración y el intercambio de ideas son fundamentales en Doodworld. Los usuarios pueden interactuar entre sí, compartir conocimientos y establecer relaciones comerciales dentro del metaverso. Además, se fomentarán eventos y actividades comunitarias para promover la interacción y el networking entre los participantes.
 
-##Instalación y configuración
+## Instalación y configuración
 
 1.	Clona el repositorio de Doodworld desde GitHub.
 2.	Abre el directorio principal del proyecto en tu editor de código preferido.
@@ -51,7 +51,7 @@ La colaboración y el intercambio de ideas son fundamentales en Doodworld. Los u
 7.	Realiza pruebas exhaustivas para garantizar que tu puerta funcione correctamente y se muestre de manera óptima en diferentes dispositivos y navegadores.
 9.	Publica tu puerta de entrada en Doodworld siguiendo las instrucciones proporcionadas en la documentación del desarrollador.
 
-##Contribución
+## Contribución
 
 ¡Agradecemos y valoramos las contribuciones a Doodworld! Si deseas colaborar con el desarrollo del proyecto, sigue estos pasos:
 1.	Realiza un fork del repositorio de Doodworld.
