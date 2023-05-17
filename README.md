@@ -34,6 +34,22 @@ Doodworld facilitará el comercio dentro del metaverso utilizando la criptomoned
 
 Además, cada puerta o proyecto dentro de Doodworld tendrá el derecho de crear su propia criptomoneda utilizando el concepto de acciones criptográficas. Esto permitirá a los negocios buscar apoyo financiero o socios de manera similar a la bolsa de valores. Esto fomentará la colaboración y la inversión dentro de Doodworld, brindando oportunidades adicionales de crecimiento y desarrollo para los emprendimientos y proyectos presentes en la plataforma.
 
+## Acciones Criptográficas
+
+Dentro de Doodworld, se implementa el concepto de acciones criptográficas, inspirado en la limitación de las bitcoins a un máximo de 21 millones. Este enfoque proporciona una oportunidad para que las empresas y emprendimientos dentro de Doodworld emitan un número limitado de acciones criptográficas para buscar apoyo financiero e inversores.
+
+Las acciones criptográficas son unidades digitales que representan una participación en la empresa o emprendimiento. Cada acción criptográfica es única y se registra en la cadena de bloques de Doodworld para garantizar su autenticidad y seguridad.
+
+Al igual que con Bitcoin, el número máximo de acciones criptográficas disponibles en Doodworld se limita a 21 millones. Esta limitación asegura la escasez y el valor de las acciones, lo que fomenta la inversión y el comercio dentro de la plataforma.
+
+Las empresas y emprendimientos pueden emitir acciones criptográficas como una forma de financiamiento y para atraer inversores interesados en su proyecto. Los titulares de acciones criptográficas pueden beneficiarse de las ganancias y el crecimiento de la empresa, y también pueden participar en la toma de decisiones a través de mecanismos de gobernanza establecidos.
+
+El comercio de acciones criptográficas se realiza dentro de Doodworld utilizando la infraestructura de blockchain subyacente. Los inversores pueden comprar, vender o intercambiar acciones criptográficas, lo que permite la creación de un mercado dinámico y líquido para estas unidades digitales.
+
+El concepto de acciones criptográficas en Doodworld ofrece a las empresas y emprendimientos una alternativa innovadora para recaudar fondos y atraer inversores, al tiempo que brinda a los usuarios de la plataforma la oportunidad de participar en proyectos prometedores y compartir sus beneficios.
+
+¡Únete a Doodworld y explora las posibilidades de las acciones criptográficas para impulsar el crecimiento y el éxito de los negocios y emprendimientos en el metaverso!
+
 ## Participación en Doodworld
 
 Doodworld es un espacio inclusivo y abierto para todos. Tanto desarrolladores como usuarios pueden participar en este metaverso y contribuir al crecimiento de la comunidad. Los desarrolladores pueden crear y personalizar sus puertas, mientras que los usuarios pueden explorar, comprar y conectar con diferentes proyectos y negocios.
